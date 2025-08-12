@@ -1,0 +1,720 @@
+2025-08-12 20:06:00,453 ERROR: Error in algo trading scan: ['signal']
+2025-08-12 20:08:25,771 INFO: Starting algo trading scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:08:29,448 INFO: Processing TCS.NS...
+2025-08-12 20:08:30,013 WARNING: ⚠️ Missing columns for TCS.NS: ['Open', 'High', 'Low', 'Close', 'Volume']
+2025-08-12 20:08:30,014 INFO: Processing RELIANCE.NS...
+2025-08-12 20:08:30,197 WARNING: ⚠️ Missing columns for RELIANCE.NS: ['Open', 'High', 'Low', 'Close', 'Volume']
+2025-08-12 20:08:30,198 INFO: Processing INFY.NS...
+2025-08-12 20:08:30,358 WARNING: ⚠️ Missing columns for INFY.NS: ['Open', 'High', 'Low', 'Close', 'Volume']
+2025-08-12 20:08:33,107 INFO: Algo trading scan completed successfully!
+2025-08-12 20:08:33,107 INFO: Final Summary: 0 trades, Net P&L: ₹0.00, Win Rate: 0.00%
+2025-08-12 20:09:20,316 INFO: Starting algo trading scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:09:24,234 INFO: Processing TCS.NS...
+2025-08-12 20:09:24,919 WARNING: ⚠️ Missing columns for TCS.NS: ['Open', 'High', 'Low', 'Close', 'Volume']
+2025-08-12 20:09:24,920 INFO: Processing RELIANCE.NS...
+2025-08-12 20:09:25,273 WARNING: ⚠️ Missing columns for RELIANCE.NS: ['Open', 'High', 'Low', 'Close', 'Volume']
+2025-08-12 20:09:25,273 INFO: Processing INFY.NS...
+2025-08-12 20:09:25,588 WARNING: ⚠️ Missing columns for INFY.NS: ['Open', 'High', 'Low', 'Close', 'Volume']
+2025-08-12 20:09:28,637 INFO: Algo trading scan completed successfully!
+2025-08-12 20:09:28,637 INFO: Final Summary: 0 trades, Net P&L: ₹0.00, Win Rate: 0.00%
+2025-08-12 20:15:07,511 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:15:15,134 INFO: Found SELL for TCS.NS on 2025-05-13 @ 3515.00 (RSI=67.50, SMA20=3406.78, SMA50=3478.57) -> logged to Google Sheets
+2025-08-12 20:15:15,135 INFO: Telegram sent: True
+2025-08-12 20:15:16,602 INFO: Found SELL for TCS.NS on 2025-05-14 @ 3548.70 (RSI=63.35, SMA20=3422.64, SMA50=3476.03) -> logged to Google Sheets
+2025-08-12 20:15:16,603 INFO: Telegram sent: True
+2025-08-12 20:15:18,033 INFO: Found SELL for TCS.NS on 2025-05-15 @ 3579.90 (RSI=66.88, SMA20=3439.23, SMA50=3475.03) -> logged to Google Sheets
+2025-08-12 20:15:18,034 INFO: Telegram sent: True
+2025-08-12 20:15:19,466 INFO: Found SELL for TCS.NS on 2025-05-16 @ 3561.30 (RSI=61.32, SMA20=3453.60, SMA50=3474.01) -> logged to Google Sheets
+2025-08-12 20:15:19,467 INFO: Telegram sent: True
+2025-08-12 20:15:20,984 INFO: Found SELL for TCS.NS on 2025-06-24 @ 3390.40 (RSI=51.26, SMA20=3439.68, SMA50=3443.80) -> logged to Google Sheets
+2025-08-12 20:15:20,985 INFO: Telegram sent: True
+2025-08-12 20:15:20,996 INFO: Backtest TCS.NS | Trades=0 | Wins=0 | Net P&L=0.00 | WinRatio=0.00%
+2025-08-12 20:15:21,030 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:15:22,597 INFO: Found SELL for RELIANCE.NS on 2025-07-07 @ 1541.50 (RSI=78.41, SMA20=1473.78, SMA50=1442.30) -> logged to Google Sheets
+2025-08-12 20:15:22,598 INFO: Telegram sent: True
+2025-08-12 20:15:24,040 INFO: Found SELL for RELIANCE.NS on 2025-07-08 @ 1537.60 (RSI=77.30, SMA20=1478.73, SMA50=1445.68) -> logged to Google Sheets
+2025-08-12 20:15:24,041 INFO: Telegram sent: True
+2025-08-12 20:15:25,377 INFO: Found SELL for RELIANCE.NS on 2025-07-09 @ 1519.00 (RSI=70.18, SMA20=1482.24, SMA50=1448.06) -> logged to Google Sheets
+2025-08-12 20:15:25,377 INFO: Telegram sent: True
+2025-08-12 20:15:26,708 INFO: Found SELL for RELIANCE.NS on 2025-07-10 @ 1517.20 (RSI=64.07, SMA20=1486.02, SMA50=1450.31) -> logged to Google Sheets
+2025-08-12 20:15:26,709 INFO: Telegram sent: True
+2025-08-12 20:15:28,070 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets
+2025-08-12 20:15:28,071 INFO: Telegram sent: True
+2025-08-12 20:15:28,075 INFO: Backtest RELIANCE.NS | Trades=0 | Wins=0 | Net P&L=0.00 | WinRatio=0.00%
+2025-08-12 20:15:28,087 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:15:29,771 INFO: Found SELL for INFY.NS on 2025-06-19 @ 1618.40 (RSI=64.19, SMA20=1586.36, SMA50=1533.72) -> logged to Google Sheets
+2025-08-12 20:15:29,772 INFO: Telegram sent: True
+2025-08-12 20:15:31,408 INFO: Found SELL for INFY.NS on 2025-06-20 @ 1622.90 (RSI=68.00, SMA20=1589.27, SMA50=1538.24) -> logged to Google Sheets
+2025-08-12 20:15:31,409 INFO: Telegram sent: True
+2025-08-12 20:15:32,780 INFO: Found SELL for INFY.NS on 2025-06-25 @ 1614.90 (RSI=62.40, SMA20=1592.17, SMA50=1549.01) -> logged to Google Sheets
+2025-08-12 20:15:32,780 INFO: Telegram sent: True
+2025-08-12 20:15:34,111 INFO: Found SELL for INFY.NS on 2025-06-26 @ 1616.00 (RSI=61.06, SMA20=1593.69, SMA50=1552.81) -> logged to Google Sheets
+2025-08-12 20:15:34,113 INFO: Telegram sent: True
+2025-08-12 20:15:36,419 INFO: Found SELL for INFY.NS on 2025-07-29 @ 1513.70 (RSI=21.18, SMA20=1587.05, SMA50=1588.40) -> logged to Google Sheets
+2025-08-12 20:15:36,420 INFO: Telegram sent: True
+2025-08-12 20:15:36,426 INFO: Backtest INFY.NS | Trades=0 | Wins=0 | Net P&L=0.00 | WinRatio=0.00%
+2025-08-12 20:15:36,438 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:15:38,515 ERROR: Error in algo trading scan: APIError: [400]: Invalid values[1][2]: struct_value 	 {
+  fields {
+    key: "down_probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "prediction"
+    value {
+      string_value: "DOWN"
+    }
+  }
+  fields {
+    key: "probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "up_probability"
+    value {
+      number_value: 0.0
+    }
+  }
+}
+
+2025-08-12 20:21:59,301 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:22:05,111 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets
+2025-08-12 20:22:05,111 INFO: Telegram sent: True
+2025-08-12 20:22:06,337 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets
+2025-08-12 20:22:06,338 INFO: Telegram sent: True
+2025-08-12 20:22:08,493 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets
+2025-08-12 20:22:08,494 INFO: Telegram sent: True
+2025-08-12 20:22:09,785 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets
+2025-08-12 20:22:09,787 INFO: Telegram sent: True
+2025-08-12 20:22:11,150 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets
+2025-08-12 20:22:11,150 INFO: Telegram sent: True
+2025-08-12 20:22:11,155 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 20:22:11,166 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:22:12,762 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets
+2025-08-12 20:22:12,763 INFO: Telegram sent: True
+2025-08-12 20:22:14,041 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets
+2025-08-12 20:22:14,041 INFO: Telegram sent: True
+2025-08-12 20:22:15,378 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets
+2025-08-12 20:22:15,379 INFO: Telegram sent: True
+2025-08-12 20:22:16,630 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets
+2025-08-12 20:22:16,630 INFO: Telegram sent: True
+2025-08-12 20:22:18,077 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets
+2025-08-12 20:22:18,077 INFO: Telegram sent: True
+2025-08-12 20:22:18,085 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 20:22:18,095 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:22:19,502 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets
+2025-08-12 20:22:19,502 INFO: Telegram sent: True
+2025-08-12 20:22:20,886 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets
+2025-08-12 20:22:20,887 INFO: Telegram sent: True
+2025-08-12 20:22:22,073 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets
+2025-08-12 20:22:22,074 INFO: Telegram sent: True
+2025-08-12 20:22:23,344 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets
+2025-08-12 20:22:23,345 INFO: Telegram sent: True
+2025-08-12 20:22:24,497 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets
+2025-08-12 20:22:24,497 INFO: Telegram sent: True
+2025-08-12 20:22:24,505 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 20:22:24,525 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:22:26,280 ERROR: Error in algo trading scan: APIError: [400]: Invalid values[1][2]: struct_value 	 {
+  fields {
+    key: "down_probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "prediction"
+    value {
+      string_value: "DOWN"
+    }
+  }
+  fields {
+    key: "probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "up_probability"
+    value {
+      number_value: 0.0
+    }
+  }
+}
+
+2025-08-12 20:28:36,881 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:28:36,958 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 20:28:37,044 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 20:28:51,874 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:28:56,939 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:28:57,665 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 20:28:57,666 INFO: Telegram sent: True
+2025-08-12 20:28:58,150 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:28:58,891 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 20:28:58,892 INFO: Telegram sent: True
+2025-08-12 20:28:59,385 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:00,131 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 20:29:00,131 INFO: Telegram sent: True
+2025-08-12 20:29:00,661 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:01,393 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 20:29:01,394 INFO: Telegram sent: True
+2025-08-12 20:29:01,890 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:02,669 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 20:29:02,670 INFO: Telegram sent: True
+2025-08-12 20:29:02,675 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 20:29:02,690 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:29:03,427 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:04,196 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 20:29:04,197 INFO: Telegram sent: True
+2025-08-12 20:29:04,673 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:06,469 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 20:29:06,469 INFO: Telegram sent: True
+2025-08-12 20:29:07,038 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:08,833 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 20:29:08,834 INFO: Telegram sent: True
+2025-08-12 20:29:09,393 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:10,250 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 20:29:10,251 INFO: Telegram sent: True
+2025-08-12 20:29:10,782 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:11,589 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 20:29:11,590 INFO: Telegram sent: True
+2025-08-12 20:29:11,599 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 20:29:11,610 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:29:12,505 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:13,432 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 20:29:13,432 INFO: Telegram sent: True
+2025-08-12 20:29:13,948 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:14,674 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 20:29:14,675 INFO: Telegram sent: True
+2025-08-12 20:29:15,154 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:15,970 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 20:29:15,972 INFO: Telegram sent: True
+2025-08-12 20:29:16,496 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:17,220 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 20:29:17,221 INFO: Telegram sent: True
+2025-08-12 20:29:17,715 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:29:18,440 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 20:29:18,440 INFO: Telegram sent: True
+2025-08-12 20:29:18,443 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 20:29:18,454 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:29:20,149 ERROR: Error in algo trading scan: APIError: [400]: Invalid values[1][2]: struct_value 	 {
+  fields {
+    key: "down_probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "prediction"
+    value {
+      string_value: "DOWN"
+    }
+  }
+  fields {
+    key: "probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "up_probability"
+    value {
+      number_value: 0.0
+    }
+  }
+}
+
+2025-08-12 20:35:55,036 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:35:55,113 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 20:35:55,218 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 20:36:02,715 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:36:08,443 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:09,178 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 20:36:09,178 INFO: Telegram sent: True
+2025-08-12 20:36:09,697 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:10,485 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 20:36:10,486 INFO: Telegram sent: True
+2025-08-12 20:36:11,017 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:11,848 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 20:36:11,848 INFO: Telegram sent: True
+2025-08-12 20:36:12,355 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:13,112 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 20:36:13,113 INFO: Telegram sent: True
+2025-08-12 20:36:13,635 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:14,372 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 20:36:14,372 INFO: Telegram sent: True
+2025-08-12 20:36:14,376 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 20:36:14,387 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:36:15,236 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:16,096 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 20:36:16,097 INFO: Telegram sent: True
+2025-08-12 20:36:16,614 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:17,528 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 20:36:17,530 INFO: Telegram sent: True
+2025-08-12 20:36:18,062 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:18,912 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 20:36:18,913 INFO: Telegram sent: True
+2025-08-12 20:36:19,485 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:20,232 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 20:36:20,232 INFO: Telegram sent: True
+2025-08-12 20:36:20,797 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:21,814 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 20:36:21,814 INFO: Telegram sent: True
+2025-08-12 20:36:21,821 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 20:36:21,832 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:36:22,845 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:23,824 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 20:36:23,824 INFO: Telegram sent: True
+2025-08-12 20:36:24,344 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:25,075 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 20:36:25,076 INFO: Telegram sent: True
+2025-08-12 20:36:25,567 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:26,277 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 20:36:26,277 INFO: Telegram sent: True
+2025-08-12 20:36:26,753 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:27,520 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 20:36:27,520 INFO: Telegram sent: True
+2025-08-12 20:36:28,051 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:36:28,809 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 20:36:28,809 INFO: Telegram sent: True
+2025-08-12 20:36:28,817 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 20:36:28,827 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:36:30,557 ERROR: Error in algo trading scan: APIError: [400]: Invalid values[1][2]: struct_value 	 {
+  fields {
+    key: "down_probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "prediction"
+    value {
+      string_value: "DOWN"
+    }
+  }
+  fields {
+    key: "probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "up_probability"
+    value {
+      number_value: 0.0
+    }
+  }
+}
+
+2025-08-12 20:40:13,284 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:40:18,518 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:19,298 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 20:40:19,298 INFO: Telegram sent: True
+2025-08-12 20:40:19,778 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:20,693 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 20:40:20,696 INFO: Telegram sent: True
+2025-08-12 20:40:21,208 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:21,999 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 20:40:21,999 INFO: Telegram sent: True
+2025-08-12 20:40:22,441 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:23,314 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 20:40:23,315 INFO: Telegram sent: True
+2025-08-12 20:40:23,823 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:24,680 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 20:40:24,680 INFO: Telegram sent: True
+2025-08-12 20:40:24,689 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 20:40:24,701 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:40:25,476 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:26,403 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 20:40:26,404 INFO: Telegram sent: True
+2025-08-12 20:40:26,881 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:27,715 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 20:40:27,715 INFO: Telegram sent: True
+2025-08-12 20:40:28,149 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:28,980 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 20:40:28,981 INFO: Telegram sent: True
+2025-08-12 20:40:29,506 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:30,218 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 20:40:30,218 INFO: Telegram sent: True
+2025-08-12 20:40:30,688 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:31,515 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 20:40:31,516 INFO: Telegram sent: True
+2025-08-12 20:40:31,523 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 20:40:31,534 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:40:32,246 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:33,076 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 20:40:33,077 INFO: Telegram sent: True
+2025-08-12 20:40:33,561 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:34,369 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 20:40:34,370 INFO: Telegram sent: True
+2025-08-12 20:40:34,801 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:35,637 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 20:40:35,639 INFO: Telegram sent: True
+2025-08-12 20:40:36,071 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:36,864 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 20:40:36,866 INFO: Telegram sent: True
+2025-08-12 20:40:37,387 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 20:40:38,095 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 20:40:38,096 INFO: Telegram sent: True
+2025-08-12 20:40:38,099 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 20:40:38,109 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:40:39,862 ERROR: Error in algo trading scan: APIError: [400]: Invalid values[1][2]: struct_value 	 {
+  fields {
+    key: "down_probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "prediction"
+    value {
+      string_value: "DOWN"
+    }
+  }
+  fields {
+    key: "probability"
+    value {
+      number_value: 1.0
+    }
+  }
+  fields {
+    key: "up_probability"
+    value {
+      number_value: 0.0
+    }
+  }
+}
+
+2025-08-12 20:46:13,688 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:46:21,049 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:22,053 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 20:46:22,053 INFO: Telegram sent: True
+2025-08-12 20:46:22,636 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:23,496 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 20:46:23,496 INFO: Telegram sent: True
+2025-08-12 20:46:24,023 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:24,918 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 20:46:24,918 INFO: Telegram sent: True
+2025-08-12 20:46:25,608 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:26,341 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 20:46:26,342 INFO: Telegram sent: True
+2025-08-12 20:46:26,939 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:28,104 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 20:46:28,104 INFO: Telegram sent: True
+2025-08-12 20:46:28,112 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 20:46:28,122 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:46:28,996 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:29,743 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 20:46:29,744 INFO: Telegram sent: True
+2025-08-12 20:46:30,317 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:31,278 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 20:46:31,279 INFO: Telegram sent: True
+2025-08-12 20:46:31,850 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:32,692 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 20:46:32,692 INFO: Telegram sent: True
+2025-08-12 20:46:33,283 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:34,352 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 20:46:34,353 INFO: Telegram sent: True
+2025-08-12 20:46:34,883 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:35,671 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 20:46:35,671 INFO: Telegram sent: True
+2025-08-12 20:46:35,674 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 20:46:35,683 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:46:36,463 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:37,528 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 20:46:37,528 INFO: Telegram sent: True
+2025-08-12 20:46:38,094 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:39,142 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 20:46:39,142 INFO: Telegram sent: True
+2025-08-12 20:46:39,632 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:40,378 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 20:46:40,379 INFO: Telegram sent: True
+2025-08-12 20:46:41,178 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:42,032 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 20:46:42,032 INFO: Telegram sent: True
+2025-08-12 20:46:42,543 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:46:43,364 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 20:46:43,364 INFO: Telegram sent: True
+2025-08-12 20:46:43,367 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 20:46:43,377 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:46:45,672 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 20:46:45,753 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 20:46:46,639 INFO: Scan complete.
+2025-08-12 20:48:47,495 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 20:48:52,732 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:48:53,620 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 20:48:53,620 INFO: Telegram sent: True
+2025-08-12 20:48:54,182 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:48:55,155 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 20:48:55,156 INFO: Telegram sent: True
+2025-08-12 20:48:55,725 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:48:56,587 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 20:48:56,587 INFO: Telegram sent: True
+2025-08-12 20:48:57,161 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:48:58,234 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 20:48:58,234 INFO: Telegram sent: True
+2025-08-12 20:48:58,805 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:48:59,665 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 20:48:59,666 INFO: Telegram sent: True
+2025-08-12 20:48:59,671 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 20:48:59,685 INFO: TCS.NS ML acc: 0.733
+2025-08-12 20:49:00,432 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:01,399 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 20:49:01,400 INFO: Telegram sent: True
+2025-08-12 20:49:02,063 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:02,938 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 20:49:02,940 INFO: Telegram sent: True
+2025-08-12 20:49:03,473 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:04,269 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 20:49:04,271 INFO: Telegram sent: True
+2025-08-12 20:49:04,813 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:05,666 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 20:49:05,667 INFO: Telegram sent: True
+2025-08-12 20:49:06,285 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:07,134 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 20:49:07,135 INFO: Telegram sent: True
+2025-08-12 20:49:07,140 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 20:49:07,151 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 20:49:07,917 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:08,773 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 20:49:08,775 INFO: Telegram sent: True
+2025-08-12 20:49:09,298 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:10,134 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 20:49:10,134 INFO: Telegram sent: True
+2025-08-12 20:49:10,680 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:11,640 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 20:49:11,642 INFO: Telegram sent: True
+2025-08-12 20:49:12,214 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:12,916 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 20:49:12,917 INFO: Telegram sent: True
+2025-08-12 20:49:13,410 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 20:49:14,305 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 20:49:14,306 INFO: Telegram sent: True
+2025-08-12 20:49:14,314 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 20:49:14,326 INFO: INFY.NS ML acc: 0.333
+2025-08-12 20:49:16,507 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 20:49:16,585 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 20:49:17,478 INFO: Scan complete.
+2025-08-12 21:50:59,151 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 21:51:04,662 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:05,410 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 21:51:05,411 INFO: Telegram sent: True
+2025-08-12 21:51:05,899 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:06,742 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 21:51:06,743 INFO: Telegram sent: True
+2025-08-12 21:51:07,187 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:08,138 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 21:51:08,138 INFO: Telegram sent: True
+2025-08-12 21:51:08,560 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:09,467 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 21:51:09,467 INFO: Telegram sent: True
+2025-08-12 21:51:09,915 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:10,654 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 21:51:10,656 INFO: Telegram sent: True
+2025-08-12 21:51:10,663 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 21:51:10,683 INFO: TCS.NS ML acc: 0.733
+2025-08-12 21:51:11,355 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:12,440 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 21:51:12,441 INFO: Telegram sent: True
+2025-08-12 21:51:12,957 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:13,724 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 21:51:13,725 INFO: Telegram sent: True
+2025-08-12 21:51:14,164 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:15,101 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 21:51:15,102 INFO: Telegram sent: True
+2025-08-12 21:51:15,620 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:16,637 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 21:51:16,638 INFO: Telegram sent: True
+2025-08-12 21:51:17,166 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:18,281 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 21:51:18,282 INFO: Telegram sent: True
+2025-08-12 21:51:18,290 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 21:51:18,306 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 21:51:19,111 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:19,914 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 21:51:19,915 INFO: Telegram sent: True
+2025-08-12 21:51:20,386 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:21,141 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 21:51:21,142 INFO: Telegram sent: True
+2025-08-12 21:51:21,668 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:22,575 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 21:51:22,576 INFO: Telegram sent: True
+2025-08-12 21:51:23,034 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:24,016 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 21:51:24,019 INFO: Telegram sent: True
+2025-08-12 21:51:24,469 ERROR: Error writing to sheet Trade_Log: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:25,219 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 21:51:25,220 INFO: Telegram sent: True
+2025-08-12 21:51:25,229 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 21:51:25,241 INFO: INFY.NS ML acc: 0.333
+2025-08-12 21:51:27,180 ERROR: Error writing to sheet Summary: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:27,181 ERROR: Error writing to sheet Analytics: [Errno 13] Permission denied: 'Algo_Trading_Log.xlsx'
+2025-08-12 21:51:28,229 INFO: Scan complete.
+2025-08-12 22:03:14,499 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 22:03:20,367 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:21,204 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 22:03:21,205 INFO: Telegram sent: True
+2025-08-12 22:03:21,802 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:22,566 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 22:03:22,567 INFO: Telegram sent: True
+2025-08-12 22:03:23,123 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:23,944 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 22:03:23,944 INFO: Telegram sent: True
+2025-08-12 22:03:24,527 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:25,245 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 22:03:25,245 INFO: Telegram sent: True
+2025-08-12 22:03:25,816 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:27,684 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 22:03:27,684 INFO: Telegram sent: True
+2025-08-12 22:03:27,689 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 22:03:27,700 INFO: TCS.NS ML acc: 0.733
+2025-08-12 22:03:28,681 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:29,527 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 22:03:29,528 INFO: Telegram sent: True
+2025-08-12 22:03:30,145 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:30,961 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 22:03:30,961 INFO: Telegram sent: True
+2025-08-12 22:03:32,372 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:33,173 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 22:03:33,173 INFO: Telegram sent: True
+2025-08-12 22:03:33,820 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:34,649 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 22:03:34,649 INFO: Telegram sent: True
+2025-08-12 22:03:35,373 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:36,145 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 22:03:36,146 INFO: Telegram sent: True
+2025-08-12 22:03:36,150 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 22:03:36,167 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 22:03:36,945 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:37,787 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 22:03:37,787 INFO: Telegram sent: True
+2025-08-12 22:03:38,300 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:39,078 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 22:03:39,078 INFO: Telegram sent: True
+2025-08-12 22:03:39,580 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:40,437 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 22:03:40,437 INFO: Telegram sent: True
+2025-08-12 22:03:40,982 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:41,775 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 22:03:41,775 INFO: Telegram sent: True
+2025-08-12 22:03:42,403 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:03:43,329 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 22:03:43,330 INFO: Telegram sent: True
+2025-08-12 22:03:43,336 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 22:03:43,355 INFO: INFY.NS ML acc: 0.333
+2025-08-12 22:03:45,278 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 22:03:45,348 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 22:03:46,219 INFO: Scan complete.
+2025-08-12 22:47:50,471 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 22:47:57,564 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:47:58,426 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 22:47:58,426 INFO: Telegram sent: True
+2025-08-12 22:47:58,934 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:47:59,744 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 22:47:59,745 INFO: Telegram sent: True
+2025-08-12 22:48:00,252 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:01,216 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 22:48:01,216 INFO: Telegram sent: True
+2025-08-12 22:48:01,800 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:02,643 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 22:48:02,644 INFO: Telegram sent: True
+2025-08-12 22:48:03,247 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:04,154 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 22:48:04,155 INFO: Telegram sent: True
+2025-08-12 22:48:04,159 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 22:48:04,171 INFO: TCS.NS ML acc: 0.733
+2025-08-12 22:48:04,897 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:06,127 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 22:48:06,128 INFO: Telegram sent: True
+2025-08-12 22:48:06,718 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:07,615 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 22:48:07,615 INFO: Telegram sent: True
+2025-08-12 22:48:08,247 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:09,180 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 22:48:09,180 INFO: Telegram sent: True
+2025-08-12 22:48:09,651 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:10,592 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 22:48:10,592 INFO: Telegram sent: True
+2025-08-12 22:48:11,119 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:11,908 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 22:48:11,909 INFO: Telegram sent: True
+2025-08-12 22:48:11,914 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 22:48:11,939 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 22:48:12,660 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:13,706 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 22:48:13,707 INFO: Telegram sent: True
+2025-08-12 22:48:14,206 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:15,141 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 22:48:15,141 INFO: Telegram sent: True
+2025-08-12 22:48:15,631 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:16,467 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 22:48:16,467 INFO: Telegram sent: True
+2025-08-12 22:48:17,062 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:19,540 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 22:48:19,540 INFO: Telegram sent: True
+2025-08-12 22:48:20,137 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:48:20,972 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 22:48:20,973 INFO: Telegram sent: True
+2025-08-12 22:48:20,977 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 22:48:20,988 INFO: INFY.NS ML acc: 0.333
+2025-08-12 22:48:23,085 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 22:48:23,177 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 22:48:24,037 INFO: Scan complete.
+2025-08-12 22:51:40,795 INFO: Starting scan for: TCS.NS, RELIANCE.NS, INFY.NS
+2025-08-12 22:51:46,915 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:47,723 INFO: Found BUY for TCS.NS on 2025-08-04 @ 3074.40 (RSI=25.46, SMA20=3181.45, SMA50=3335.93) -> logged to Google Sheets & Excel
+2025-08-12 22:51:47,723 INFO: Telegram sent: True
+2025-08-12 22:51:48,328 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:49,112 INFO: Found BUY for TCS.NS on 2025-08-05 @ 3063.90 (RSI=26.09, SMA20=3164.34, SMA50=3327.23) -> logged to Google Sheets & Excel
+2025-08-12 22:51:49,112 INFO: Telegram sent: True
+2025-08-12 22:51:49,585 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:51,796 INFO: Found BUY for TCS.NS on 2025-08-06 @ 3032.30 (RSI=25.53, SMA20=3146.76, SMA50=3317.92) -> logged to Google Sheets & Excel
+2025-08-12 22:51:51,797 INFO: Telegram sent: True
+2025-08-12 22:51:52,304 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:53,256 INFO: Found BUY for TCS.NS on 2025-08-07 @ 3047.00 (RSI=29.98, SMA20=3130.01, SMA50=3308.90) -> logged to Google Sheets & Excel
+2025-08-12 22:51:53,256 INFO: Telegram sent: True
+2025-08-12 22:51:53,841 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:54,642 INFO: Found BUY for TCS.NS on 2025-08-12 @ 3035.40 (RSI=27.87, SMA20=3098.59, SMA50=3284.79) -> logged to Google Sheets & Excel
+2025-08-12 22:51:54,642 INFO: Telegram sent: True
+2025-08-12 22:51:54,646 INFO: Backtest TCS.NS | Trades=6 | Wins=2 | Net P&L=-235.75 | WinRatio=33.33%
+2025-08-12 22:51:54,659 INFO: TCS.NS ML acc: 0.733
+2025-08-12 22:51:55,487 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:56,326 INFO: Found BUY for RELIANCE.NS on 2025-07-30 @ 1410.10 (RSI=22.33, SMA20=1466.90, SMA50=1454.98) -> logged to Google Sheets & Excel
+2025-08-12 22:51:56,326 INFO: Telegram sent: True
+2025-08-12 22:51:56,918 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:57,759 INFO: Found BUY for RELIANCE.NS on 2025-07-31 @ 1390.20 (RSI=22.57, SMA20=1460.52, SMA50=1454.60) -> logged to Google Sheets & Excel
+2025-08-12 22:51:57,759 INFO: Telegram sent: True
+2025-08-12 22:51:58,891 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:51:59,763 INFO: Found SELL for RELIANCE.NS on 2025-08-01 @ 1393.70 (RSI=25.46, SMA20=1453.84, SMA50=1453.94) -> logged to Google Sheets & Excel
+2025-08-12 22:51:59,764 INFO: Telegram sent: True
+2025-08-12 22:52:00,299 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:01,097 INFO: Found BUY for RELIANCE.NS on 2025-08-05 @ 1391.70 (RSI=28.57, SMA20=1440.05, SMA50=1452.86) -> logged to Google Sheets & Excel
+2025-08-12 22:52:01,098 INFO: Telegram sent: True
+2025-08-12 22:52:01,738 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:03,494 INFO: Found BUY for RELIANCE.NS on 2025-08-07 @ 1389.40 (RSI=29.77, SMA20=1427.35, SMA50=1451.89) -> logged to Google Sheets & Excel
+2025-08-12 22:52:03,494 INFO: Telegram sent: True
+2025-08-12 22:52:03,497 INFO: Backtest RELIANCE.NS | Trades=2 | Wins=1 | Net P&L=62.00 | WinRatio=50.00%
+2025-08-12 22:52:03,507 INFO: RELIANCE.NS ML acc: 0.333
+2025-08-12 22:52:04,674 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:05,645 INFO: Found BUY for INFY.NS on 2025-08-06 @ 1436.70 (RSI=11.81, SMA20=1542.34, SMA50=1577.84) -> logged to Google Sheets & Excel
+2025-08-12 22:52:05,646 INFO: Telegram sent: True
+2025-08-12 22:52:06,318 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:07,182 INFO: Found BUY for INFY.NS on 2025-08-07 @ 1436.90 (RSI=10.70, SMA20=1533.40, SMA50=1574.87) -> logged to Google Sheets & Excel
+2025-08-12 22:52:07,183 INFO: Telegram sent: True
+2025-08-12 22:52:07,665 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:08,508 INFO: Found BUY for INFY.NS on 2025-08-08 @ 1423.10 (RSI=10.06, SMA20=1524.80, SMA50=1572.08) -> logged to Google Sheets & Excel
+2025-08-12 22:52:08,509 INFO: Telegram sent: True
+2025-08-12 22:52:09,109 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:10,015 INFO: Found BUY for INFY.NS on 2025-08-11 @ 1428.20 (RSI=13.13, SMA20=1517.70, SMA50=1569.56) -> logged to Google Sheets & Excel
+2025-08-12 22:52:10,020 INFO: Telegram sent: True
+2025-08-12 22:52:10,642 INFO: Updated sheet Trade_Log in Algo_Trading_Log.xlsx
+2025-08-12 22:52:11,606 INFO: Found BUY for INFY.NS on 2025-08-12 @ 1424.10 (RSI=11.24, SMA20=1509.62, SMA50=1567.19) -> logged to Google Sheets & Excel
+2025-08-12 22:52:11,606 INFO: Telegram sent: True
+2025-08-12 22:52:11,610 INFO: Backtest INFY.NS | Trades=6 | Wins=2 | Net P&L=-136.10 | WinRatio=33.33%
+2025-08-12 22:52:11,624 INFO: INFY.NS ML acc: 0.333
+2025-08-12 22:52:13,687 INFO: Updated sheet Summary in Algo_Trading_Log.xlsx
+2025-08-12 22:52:13,761 INFO: Updated sheet Analytics in Algo_Trading_Log.xlsx
+2025-08-12 22:52:14,577 INFO: Scan complete.
